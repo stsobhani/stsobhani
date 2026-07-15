@@ -18,14 +18,14 @@ Currently a Software Engineering & IT Intern at Campbell & Company, and a resear
 **[SIEM Platform](https://github.com/stsobhani/siem-platform)**
 Full-stack SIEM built in Python which ingests Windows, Linux, firewall, and web logs, runs rule-based detections plus ML anomaly scoring, integrates with Splunk, and visualizes security alerts.
 
-**[Netflix Data Analysis & ML](https://github.com/stsobhani/Netflix-Data-Analysis)**
-EDA on Netflix content data using Pandas, statistical testing (chi-square, t-tests, Pearson correlation), and Random Forest / Gradient Boosting / SVM models to surface content patterns, evaluated with confusion matrices and ROC curves.
-
 **[Bank Marketing Analysis](https://github.com/stsobhani/bank-marketing-analysis)**
 Exploratory analysis and predictive modeling of a bank telemarketing campaign using SQL, Python, and Tableau.
 
 **[White Hat / Black Hat Data Visualization](https://github.com/stsobhani/White-Hat-Black-Hat)**
 Interactive D3.js visualizations comparing honest versus misleading data design, using greenhouse gas emissions data.
+
+**[Netflix Data Analysis & ML](https://github.com/stsobhani/Netflix-Data-Analysis)**
+EDA on Netflix content data using Pandas, statistical testing (chi-square, t-tests, Pearson correlation), and Random Forest / Gradient Boosting / SVM models to surface content patterns, evaluated with confusion matrices and ROC curves.
 
 **[Spaceship Merge](https://github.com/stsobhani/Spaceship-Merge)**
 Android mobile game (Kotlin) where players merge spaceships to climb tiers. This project includes a Firebase leaderboard and in-app ads.
