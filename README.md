@@ -9,7 +9,7 @@ Currently a Software Engineering & IT Intern at Campbell & Company, and a resear
 - 💼 Software Engineering & IT Intern @ Campbell & Company
 - 🔬 Researching AI adoption in higher education @ Gemstone Honors College
 - 📍 Clarksburg, MD
-- 📫 Best way to reach me is [LinkedIn](https://www.linkedin.com/in/shayansobhani), happy to share my email from there.
+- 📫 Best way to reach me is [LinkedIn](https://www.linkedin.com/in/shayansobhani), happy to share my email from there!
 
 ---
 
@@ -18,7 +18,7 @@ Currently a Software Engineering & IT Intern at Campbell & Company, and a resear
 **[SIEM Platform](https://github.com/stsobhani/siem-platform)**
 Full-stack SIEM built in Python which ingests Windows, Linux, firewall, and web logs, runs rule-based detections plus ML anomaly scoring, integrates with Splunk, and visualizes security alerts.
 
-**[Netflix Data Analysis & ML](https://stsobhani.github.io/Netflix-Data-Analysis)**
+**[Netflix Data Analysis & ML](https://github.com/stsobhani/Netflix-Data-Analysis)**
 EDA on Netflix content data using Pandas, statistical testing (chi-square, t-tests, Pearson correlation), and Random Forest / Gradient Boosting / SVM models to surface content patterns, evaluated with confusion matrices and ROC curves.
 
 **[Bank Marketing Analysis](https://github.com/stsobhani/bank-marketing-analysis)**
@@ -46,7 +46,7 @@ Android mobile game (Kotlin) where players merge spaceships to climb tiers. This
 
 ### 📫 Reach me
 
-Reach out on [LinkedIn](https://www.linkedin.com/in/shayansobhani), happy to share my email from there.
+Reach out on [LinkedIn](https://www.linkedin.com/in/shayansobhani), happy to share my email from there!
 
 <!--
 **stsobhani/stsobhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
