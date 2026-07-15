@@ -1,4 +1,4 @@
-# Hi, I'm Shayan Sobhani 👋
+# Shayan Sobhani
 
 Computer Science student at the **University of Maryland** (B.S., minors in GIS & Technology Entrepreneurship), with an AAS in **Cybersecurity** from Montgomery College's Early College Program. I am interested in the intersection of software engineering, IT, data science, and security, where I can build tools that turn raw data and infrastructure work into something useful.
 
@@ -9,7 +9,7 @@ Currently a Software Engineering & IT Intern at Campbell & Company, and a resear
 - 💼 Software Engineering & IT Intern @ Campbell & Company
 - 🔬 Researching AI adoption in higher education @ Gemstone Honors College
 - 📍 Clarksburg, MD
-- 📫 Best way to reach me is [LinkedIn](https://www.linkedin.com/in/shayansobhani) — happy to share my email there
+- 📫 Best way to reach me is [LinkedIn](https://www.linkedin.com/in/shayansobhani), happy to share my email from there.
 
 ---
 
@@ -24,7 +24,7 @@ EDA on Netflix content data using Pandas, statistical testing (chi-square, t-tes
 **[Bank Marketing Analysis](https://github.com/stsobhani/bank-marketing-analysis)**
 Exploratory analysis and predictive modeling of a bank telemarketing campaign using SQL, Python, and Tableau.
 
-**[White Hat / Black Hat Data Viz](https://github.com/stsobhani/White-Hat-Black-Hat)**
+**[White Hat / Black Hat Data Visualization](https://github.com/stsobhani/White-Hat-Black-Hat)**
 Interactive D3.js visualizations comparing honest versus misleading data design, using greenhouse gas emissions data.
 
 **[Spaceship Merge](https://github.com/stsobhani/Spaceship-Merge)**
@@ -46,7 +46,7 @@ Android mobile game (Kotlin) where players merge spaceships to climb tiers. This
 
 ### 📫 Reach me
 
-Reach out on [LinkedIn](https://www.linkedin.com/in/shayansobhani) happy to share my email from there.
+Reach out on [LinkedIn](https://www.linkedin.com/in/shayansobhani), happy to share my email from there.
 
 <!--
 **stsobhani/stsobhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
