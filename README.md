@@ -34,11 +34,15 @@ Android mobile game (Kotlin) where players merge spaceships to climb tiers. This
 
 ### 🛠️ Skills
 
-**Cyber & Infrastructure:** Networking, Wireshark, VMware, Nutanix, Altiris, Autopsy, Active Directory, BigFix, Jira, Splunk
+**Cybersecurity:** SIEM, Splunk, Threat Detection, Log Analysis, Security Monitoring, Networking, Wireshark, Nmap, Autopsy
 
-**Coding:** Python, Java, SQL, JavaScript, C, OCaml, Assembly, MATLAB, Rust, R, HTML/CSS, Kotlin, UNIX, LINUX
+**IT & Infrastructure:** Active Directory, VMware, Nutanix, Docker, PostgreSQL, Linux, Bash, PowerShell, AWS, Azure, Jira, Git, GitHub, BigFix, Altiris
 
-**GIS & Data Visualization:** ArcGIS Pro, ArcGIS Online, QGIS, Google Earth Engine, Tableau, Spatial Data Processing, Landsat & MODIS data
+**Programming:** Python, SQL, Java, JavaScript, C, HTML/CSS, R, Rust, Kotlin, MATLAB, OCaml, Assembly, UNIX
+
+**Data Analytics & Machine Learning:** Pandas, NumPy, Scikit-learn, XGBoost, Random Forest, Isolation Forest, Tableau
+
+**GIS:** ArcGIS Pro, ArcGIS Online, QGIS, Google Earth Engine, Remote Sensing, Spatial Data Processing, Landsat & MODIS, Data Visualization
 
 **Tools:** Excel, Adobe Photoshop, Adobe Illustrator
 
