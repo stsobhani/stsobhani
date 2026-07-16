@@ -9,25 +9,25 @@ Currently a Software Engineering & IT Intern at Campbell & Company, and a resear
 - 💼 Software Engineering & IT Intern @ Campbell & Company
 - 🔬 Researching AI adoption in higher education @ Gemstone Honors College
 - 📍 Clarksburg, MD
-- 📫 Best way to reach me is [LinkedIn](https://www.linkedin.com/in/shayansobhani), happy to share my email from there!
+- 📫 The best way to reach me is [LinkedIn](https://www.linkedin.com/in/shayansobhani), happy to share my email from there!
 
 ---
 
 ### 🚀 Featured Projects
 
-**[SIEM Platform](https://github.com/stsobhani/siem-platform)**
-Full-stack SIEM built in Python which ingests Windows, Linux, firewall, and web logs, runs rule-based detections plus ML anomaly scoring, integrates with Splunk, and visualizes security alerts.
+**[SIEM Platform](https://github.com/stsobhani/siem-platform)**:
+Full-stack SIEM built in Python that ingests Windows, Linux, firewall, and web logs, runs rule-based detections plus ML anomaly scoring, integrates with Splunk, and visualizes security alerts.
 
-**[Bank Marketing Analysis](https://github.com/stsobhani/bank-marketing-analysis)**
+**[Bank Marketing Analysis](https://github.com/stsobhani/bank-marketing-analysis)**:
 Exploratory analysis and predictive modeling of a bank telemarketing campaign using SQL, Python, and Tableau.
 
-**[White Hat / Black Hat Data Visualization](https://github.com/stsobhani/White-Hat-Black-Hat)**
+**[White Hat / Black Hat Data Visualization](https://github.com/stsobhani/White-Hat-Black-Hat)**:
 Interactive D3.js visualizations comparing honest versus misleading data design, using greenhouse gas emissions data.
 
-**[Netflix Data Analysis & ML](https://github.com/stsobhani/Netflix-Data-Analysis)**
+**[Netflix Data Analysis & ML](https://github.com/stsobhani/Netflix-Data-Analysis)**:
 EDA on Netflix content data using Pandas, statistical testing (chi-square, t-tests, Pearson correlation), and Random Forest / Gradient Boosting / SVM models to surface content patterns, evaluated with confusion matrices and ROC curves.
 
-**[Spaceship Merge](https://github.com/stsobhani/Spaceship-Merge)**
+**[Spaceship Merge](https://github.com/stsobhani/Spaceship-Merge)**:
 Android mobile game (Kotlin) where players merge spaceships to climb tiers. This project includes a Firebase leaderboard and in-app ads.
 
 ---
